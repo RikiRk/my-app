@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "South Africa parliament had inadequate fire safety measures, report says",
+            "description": "Sprinklers and the alarm system did not work when a blaze started on Sunday, the fire service says.",
+            "url": "http://www.bbc.co.uk/news/world-africa-59913250",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6965/production/_122618962_ddeba7f0-4087-4d5b-8175-20a4dedc5787.jpg",
+            "publishedAt": "2022-01-07T16:22:25.1650377Z",
+            "content": "By Catherine Schenck BBC News, Johannesburg\r\nImage source, City of Cape Town Fire Services\r\nImage caption, The fire caused severe damage inside the parliament building\r\nSome fire safety measures were… [+1964 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Instagram blocked hashtag in memory of Iran plane crash victims",
+            "description": "The social media giant says it did so by mistake, as families tried to memorialise the 176 victims.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-59901366",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14BEB/production/_122617948_rana080120kievgettyimages-1230479127.jpg",
+            "publishedAt": "2022-01-07T16:07:32.3128734Z",
+            "content": "By Rana RahimpourBBC Persian\r\nImage source, Getty Images\r\nImage caption, Citizens of six countries were killed in the crash\r\nInstagram blocked posts using a hashtag in memory of the victims of a Ukra… [+3024 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nelson Mandela's Robben Island cell key returning to South Africa - minister",
+            "description": "The key, kept by a former guard, was going to be auctioned in the US until South Africa objected.",
+            "url": "http://www.bbc.co.uk/news/world-africa-59907411",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1836C/production/_122608199_gettyimages-585863210.jpg",
+            "publishedAt": "2022-01-07T16:07:25.3927212Z",
+            "content": "Image source, Corbis via Getty Images\r\nImage caption, Nelson Mandela revisited his prison cell at Robben Island in 1994\r\nThe key to the prison cell on Robben Island once occupied by Nelson Mandela is… [+1567 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sidney Poitier: Hollywood star dies aged 94",
+            "description": "The Oscar-winning Hollywood star was also a respected humanitarian.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-59907931",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4967/production/_122619781_sidney.jpg",
+            "publishedAt": "2022-01-07T15:52:22.6109246Z",
+            "content": "Sidney Poitier, the first black man to win a best actor Oscar, has died at 94.\r\nThe Hollywood star's death was confirmed to the BBC by the office of Fred Mitchell, the Bahamas' minister of foreign af… [+573 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hiring slows in US after record year of job gains",
+            "description": "The US added a lower than expected 199,000 jobs last month, the Bureau of Labor Statistics says.",
+            "url": "http://www.bbc.co.uk/news/business-59912190",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/544D/production/_122618512_hi072664564.jpg",
+            "publishedAt": "2022-01-07T15:07:21.5070298Z",
+            "content": "Hiring in the US slowed last month, as firms struggled to hire workers and continued to grapple with the effects of coronavirus.\r\nEmployers hired just 199,000 people in December, a second month of we… [+2324 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Novak Djokovic thanks fans as he awaits deportation decision",
+            "description": "The men's tennis number one is awaiting a decision on his deportation from Australia over a vaccination row.",
+            "url": "http://www.bbc.co.uk/news/world-australia-59912704",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2022-01-07T14:07:21.4131201Z",
+            "content": "Tennis star Novak Djokovic has thanked people \"around the world\" for their support as he awaits a decision on his deportation from Australia.\r\nDjokovic landed this week to play in the Australian Open… [+803 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Amputee says surfing helped rediscover identity",
+            "description": "Zoe Smith competed at the World Para Surfing Championship in California.",
+            "url": "http://www.bbc.co.uk/news/uk-england-dorset-59909403",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/155FF/production/_122615578_parasurf_070122_onlinestill.jpg",
+            "publishedAt": "2022-01-07T13:22:21.1860777Z",
+            "content": "A woman whose leg was amputated after a car crash says that learning to surf has helped her rediscover her identity.\r\nZoe Smith, from Bournemouth, only took up surfing in September last year, but has… [+418 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Bitcoin prices fall to lowest in months after US Fed remarks",
+            "description": "Bitcoin prices tumble amid rumblings from the US banking body and unrest in Kazakhstan.",
+            "url": "http://www.bbc.co.uk/news/technology-59907864",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DE6D/production/_122614965_hi072952441.jpg",
+            "publishedAt": "2022-01-07T11:22:24.6771065Z",
+            "content": "Bitcoin prices have fallen to their lowest level in months following remarks from the US Federal Reserve.\r\nThe crypto-currency dropped in value from $47,000 (£34,700) earlier this week to less than $… [+3289 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Troops told to fire without warning in Kazakhstan",
+            "description": "Kazakhstan's president orders troops to fire without warning, as violent anti-government protests continue.",
+            "url": "http://www.bbc.co.uk/news/world-asia-59907235",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+            "publishedAt": "2022-01-07T08:52:21.1060746Z",
+            "content": "Soldiers can now fire without warning in Kazakhstan, president says, as anti-government demonstrations continue"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Myanmar coup: The doctors and nurses defying the military",
+            "description": "Many healthcare workers have refused to work in state hospitals and are now operating underground.",
+            "url": "http://www.bbc.co.uk/news/world-asia-59649006",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8732/production/_122601643_gettyimages-1230943486.jpg",
+            "publishedAt": "2022-01-07T00:22:21.0356371Z",
+            "content": "By Jonathan HeadSouth East Asia correspondent\r\nImage source, Getty Images\r\nImage caption, Healthcare workers were amongst the first to lead street protests against the February 1 coup\r\nA significant … [+9579 chars]"
+        }
+    ]
+}
